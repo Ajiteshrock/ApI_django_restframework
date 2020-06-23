@@ -10,6 +10,6 @@
 ## You can clone this prjects by running following command(download Git Bash First)
 
 ## [Download Git Here](https://www.git-scm.com)
+### Before This make sure you have an activated virtualenv
 git clone https://github.com/Ajiteshrock/API_intern_django.git 
-
 pip install requirements.txt
