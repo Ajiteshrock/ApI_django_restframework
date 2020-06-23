@@ -5,4 +5,6 @@
 <li><h3>Django</h3></li>
 <li><h3>DjangoRestframework</h3></li>
 <li><h3>Faker (for creating dummy data)</h3></li>
+  
+<img src = "C:\Users\Acer\Pictures\Screenshots\Screenshot (17).png">
 
