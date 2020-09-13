@@ -1,4 +1,4 @@
-# ApI_intern_django
+# ApI_djangorest
 ## In this assesment I have created a API in django Restframework which show user and thier activity log in a comapany with the help of dummy data
 ## Below is the picture of my API landing page
 ![Screenshot (17)](https://user-images.githubusercontent.com/47673623/85448967-da558580-b5b4-11ea-90a1-61fc4a6401d7.png)
